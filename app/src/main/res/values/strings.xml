@@ -1,0 +1,12 @@
+<resources>
+    <string name="tip">tip</string>
+    <string name="go">go</string>
+    <string name="yes">yes</string>
+    <string name="no">no</string>
+    <string name="exit_title">Are you sure quit?</string>
+    <string name="back">Return</string>
+    <string name="home">home</string>
+    <string name="center">center</string>
+    <string name="setting">setting</string>
+    <string name="privacy_policy"><u>软件使用协议</u></string>
+</resources>

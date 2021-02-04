@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/bottom_app_lock_selector" android:state_selected="true"/>
+    <item android:state_selected="false" android:drawable="@drawable/bottom_app_lock"/>
+    <item android:drawable="@drawable/bottom_app_lock"/>
+</selector>
